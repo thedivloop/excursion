@@ -1,0 +1,28 @@
+* {
+	background-color: black;
+	color: white;
+}
+
+body {
+	display: flex;
+	margin: auto;
+	flex-direction: column;
+	align-items: center;
+}
+
+header {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+section {
+	display: flex;
+	margin: auto;
+	width: 40rem;
+}
+
+video {
+	margin: auto;
+}
