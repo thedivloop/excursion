@@ -17,6 +17,11 @@ header {
 	align-items: center;
 }
 
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px;
+}
+
 section {
 	display: flex;
 	margin: auto;
