@@ -22,6 +22,11 @@ h1 {
 	font-size: 50px;
 }
 
+#toplink > p {
+	color: aquamarine;
+	font-size: 1rem;
+}
+
 section {
 	display: flex;
 	margin: auto;
