@@ -1,9 +1,16 @@
-* {
+body {
+	margin: 0;
+	background-color: gray;
+}
+
+.container {
+	margin: 0 5rem;
+	padding: 1rem;
 	background-color: black;
 	color: white;
 }
 
-body {
+main {
 	display: flex;
 	margin: auto;
 	flex-direction: column;
@@ -73,4 +80,12 @@ h3 {
 
 video {
 	margin: auto;
+}
+
+footer {
+	text-align: right;
+	margin-bottom: 1rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: gray;
+	font-size: 1.5rem;
 }
