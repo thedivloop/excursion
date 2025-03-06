@@ -40,9 +40,17 @@ h1 {
 	margin: auto;
 }
 
+#bottom {
+	margin-top: 1.7rem;
+	display: flex;
+	height: 18rem;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+
 h2 {
 	margin: auto;
-	padding-bottom: 1.5rem;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 42px;
 	font-weight: 300;
@@ -50,6 +58,7 @@ h2 {
 
 h3 {
 	margin: auto;
+	padding-top: 1.5rem;
 	padding-bottom: 1.5rem;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 21px;
